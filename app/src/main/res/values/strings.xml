@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WorkshopForm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">FullName</string>
+    <string name="hint_email">Email-id</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_year">Year</string>
+    <string name="btn_register">Register</string>
+    <string name="hint_facebook">Facebook</string>
+    <string name="hint_whatsapp">Whatsapp</string>
+    <string name="hint_student">Student Ambassador</string>
+    <string name="hint_website">Website/App</string>
+    <string name="hint_others">Others</string>
+    <string name="btn_sign_up">Register</string>
+    <string name="error">Error in details</string>
+    <string name="participant_2">PARTICIPANT 2</string>
+    <string name="participant_1">PARTICIPANT 1</string>
+    <string name="participant_3">PARTICIPANT 3</string>
+    <string name="participant_4">PARTICIPANT 4</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="title_activity_two_participant">Two_participant</string>
+    <string name="title_activity_three__participant">Three_Participant</string>
+    <string name="title_activity_fout__participant">Fout_Participant</string>
+
+
+</resources>
